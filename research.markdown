@@ -37,6 +37,7 @@ As shown nearly a decade ago by Marx, Stoker and Suri, sattelite imaging and mod
   <li>Newton</li>
   <li>Peter Shore</li>
   <li>Jim Simons</li>
+  <li><a href="https://csbphd.mit.edu/faculty-spotlight/Boyer"> My Mom!</a></li>
 </ul>
 
 </div>
