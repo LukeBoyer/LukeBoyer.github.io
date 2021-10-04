@@ -15,4 +15,6 @@ permalink: /links/
 <p><a href="https://blueskycollaborative.com/" target="_blank">My internship at Blue Sky Collaborative</a></p>
 <p><a href="https://www.khoury.northeastern.edu/" target="_blank">My college</a></p>
 <p><a href="https://open.spotify.com/artist/4bRdOW5ZMn96Z0cz5rMZPR?si=arueZ0NVSC6OsKC-BXOaCA&dl_branch=1" target="_blank">My band's spotify</a></p>
+<p><a href="https://www.khoury.northeastern.edu/" target="_blank">My amateur league of legends mens's league</a></p>
+https://www.twitch.tv/lowbudgetlcs
 </div>
