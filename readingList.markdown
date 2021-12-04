@@ -5,7 +5,7 @@ permalink: /reading/
 ---
 
 <div>
-	<h3>My Quintessential Reads</h3>
+	<h3>My Favorite Reads</h3>
 	<p><i>He who defines himself can't know who he really is. -Tao Te Ching</i></p>
 <ul>
   <li>The Brothers Karamazov, <i>Fyodor Dostoevsky</i></li>

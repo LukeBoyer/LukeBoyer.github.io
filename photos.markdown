@@ -31,12 +31,6 @@ permalink: /photos/
 </div>
 <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
 	<figure>
-		<img src="/assets/img/band.jpeg" alt="" width="450">
-	<figcaption>Playing a full house with the band</figcaption>
-	</figure>
-</div>
-<div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-	<figure>
 		<img src="/assets/img/hill.jpeg" alt="" width="450">
 	<figcaption>Missing mission hill</figcaption>
 	</figure>
